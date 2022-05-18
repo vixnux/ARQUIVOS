@@ -1,1 +1,1 @@
-texto A + Temp
+texto A
