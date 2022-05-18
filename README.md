@@ -1,2 +1,0 @@
-# projetos
-repositório de projetos
