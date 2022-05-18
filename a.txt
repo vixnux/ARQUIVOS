@@ -1,1 +1,1 @@
-texto A + alguma coisa texto 
+texto A + alguma coisa texto do notebook
